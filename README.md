@@ -7,8 +7,8 @@ A simple web project template using Tailwind CSS and AOS (Animate On Scroll) lib
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
 
