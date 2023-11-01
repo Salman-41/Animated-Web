@@ -6,3 +6,6 @@ INFO [2023-10-31T17:11:27.528Z]: Set User: a4be037d-6ee1-40db-ab8b-776ce0c4e912
 INFO [2023-10-31T17:11:27.528Z]: Set Tag: sentry_scope: vscode-extension
 INFO [2023-10-31T17:11:31.758Z]: Tracking open event
 INFO [2023-10-31T17:11:31.769Z]: {}
+INFO [2023-11-01T16:06:03.230Z]: Set User: a4be037d-6ee1-40db-ab8b-776ce0c4e912
+INFO [2023-11-01T16:06:06.317Z]: Tracking open event
+INFO [2023-11-01T16:06:06.375Z]: {}
